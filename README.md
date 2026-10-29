@@ -45,7 +45,7 @@ Make sure you have **Godot Engine 4** (Standard version) installed on your machi
 ### Cloning and Launching the Project
 1. Clone the repository locally:
    ```bash
-   git clone https://github.com/NAME_OF_THE_REPO
+   git clone https://github.com/VergeCentenaire/how-to-make-a-video-game-godot-beginner-tutorial
    ```
 2. Open the **Godot Project Manager**.
 3. Click **Import**, then browse and select the `project.godot` file located at the root of this folder.
