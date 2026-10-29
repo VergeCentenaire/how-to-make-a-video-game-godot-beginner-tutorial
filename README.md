@@ -7,7 +7,7 @@
 
 [![Godot Engine](https://shields.io)](https://godotengine.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
-[![Brackeys Tutorial](https://shields.io)](https://youtube.com)
+[![Brackeys Tutorial](https://shields.io)](https://www.youtube.com/watch?v=LOhfqjmasi0)
 
 <p align="center">
   <a href="#-about">About</a> •
